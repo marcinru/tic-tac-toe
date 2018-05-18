@@ -1,6 +1,8 @@
 # Tic Tac Toe
 Official React.js tutorial + improvements
 
-### `yarn install`
-
-### `yarn start`
+### How to start
+```
+yarn
+yarn start
+```
